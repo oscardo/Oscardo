@@ -21,9 +21,9 @@ I'm Oscar Eduardo Ortiz (Known as OSCAR eduarDO = OSCARDO) a Systems Engineer wi
 
 ## Interesting link
 
-[My Profile](https://www.linkedin.com/in/oscardo2000/){:target="_blank"}
-[My Personal Website](https://oscardo.github.io){:target="_blank"}
-[My help Fundations](https://www.amarhuellitas.org){:target="_blank"}
+[My Profile](https://www.linkedin.com/in/oscardo2000/) 
+[My Personal Website](https://oscardo.github.io) 
+[My help Fundations](https://www.amarhuellitas.org) 
 
 ## 🛠 Skills
 Software Services Architecture                                               ●●●●●  
