@@ -46,6 +46,6 @@ Italian          ●●○○○
 ## Link Using
 [gh-stats-gen](https://gh-stats-gen.vercel.app/)
 [github-readme](https://github-readme-streak-stats.herokuapp.com/demo/)
-[Readme](https://readme.so/editor:"target="_blank)
-[puter](https://puter.com/{:"target="_blank})
+[Readme](https://readme.so/editor)
+[puter](https://puter.com/)
 
