@@ -1,3 +1,4 @@
+  
 Hi **Oscardo** is a ✨ _Welcome my profile_ ✨ 
 
 I'm Oscar Eduardo Ortiz (Known as OSCAR eduarDO = OSCARDO) a Systems Engineer with a passion for software development and a proven ability to lead and collaborate, Highly motivated and results-oriented Systems Engineer with a strong academic background and a passion for technology. Expertise in software development, project management, and team leadership. Proven ability to deliver complex projects on time and within budget. Seeking a challenging role in a dynamic and innovative company where I can utilize my skills and experience to make a significant impact.
@@ -41,3 +42,10 @@ Spanish (Native) ●●●●●
 English          ●●●●○  
 Portugues        ●●●○○  
 Italian          ●●○○○
+
+## Link Using
+[gh-stats-gen](https://gh-stats-gen.vercel.app/)
+[github-readme](https://github-readme-streak-stats.herokuapp.com/demo/)
+[Readme](https://readme.so/editor:"target="_blank)
+[puter](https://puter.com/{:"target="_blank})
+
